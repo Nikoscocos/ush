@@ -314,7 +314,7 @@ p.answer {
         display: none !important;
     }
     .oncovered {
-        background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/img/cover.jpg);
+        background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/cover.jpg);
         background-size: cover;
         display: flex;
         justify-content: center;
